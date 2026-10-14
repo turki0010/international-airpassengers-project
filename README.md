@@ -26,9 +26,9 @@ or method — see "Your own data or method" in `brief.md`.
 **Fork → solve → commit → push** — the notebook and the report must live
 on GitHub, not just in a runtime.
 
-At the top of your fork's `README.md`, replace `<your name>` in the line
+At the top of your fork's `README.md`, replace `<Turki Mohammed Alghazi>` in the line
 
-    Submitted by: <your name> — academy: @SDAIAAcademy
+    Submitted by: <Turki Mohammed Alghazi> — academy: @SDAIAAcademy
 
 with your name, so the submission is credited to you and tags the academy
 account.
